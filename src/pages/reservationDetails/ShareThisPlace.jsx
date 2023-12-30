@@ -9,7 +9,6 @@ import messenger from "../../assets/images/messenger.png";
 import twitter from "../../assets/images/twitter.png";
 import embed from "../../assets/images/application.png";
 import { Box, Grid } from "@mui/material";
-import { Cancel } from "@mui/icons-material";
 
 const ShareThisPlace = ({ propertyValues }) => {
   const copyLink = () => {
